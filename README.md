@@ -26,6 +26,12 @@ DoseMate is a native Android application designed to simplify medication managem
 ## See It in Action! 🎥
 Check out the **attached demo video** to experience how DoseMate simplifies medication management and keeps you organized. Your health, just a tap away!  
 
+
+
+https://github.com/user-attachments/assets/04ba7fe9-1a2d-4f76-b1e5-14a58c1db0e6
+
+
+
 ---
 
 🌟 **Stay healthy, stay on schedule – with DoseMate!** 🌟
