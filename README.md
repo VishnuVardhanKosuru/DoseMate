@@ -1,16 +1,31 @@
-**Medicine Time**
+# 📱 DoseMate: Your Personal Medication Assistant 💊
 
-_The Goal:_
+DoseMate is a native Android application designed to simplify medication management for the forgetful and busy. Whether you’re maintaining a daily schedule or supporting someone else, DoseMate ensures you never miss a dose! 🚨✨
 
-Medicine Time is an native android application
-meant to aid the forgetful and busy with remembering to take their daily medications.
-It is designed for users who need a little help keeping track of their medication schedule and who are dedicated to keeping the schedule.
-The application allows the user to store pill objects and multiple alarms for those pills.
-Alarms have one time of day and can occur on multiple days of the week.
-The user is able to view their pills in a today view and can select date to view medicines.
-In addition, the application stores the history of when each medication was taken;
-this will aid the user in keeping track of their medication usage.
+---
 
+## Why DoseMate? 🧐
+✔️ **Streamlined Medication Tracking**: Perfect for users who need a little extra help staying on track.  
+✔️ **Customizable Alarms**: Set up multiple alarms for each medication based on your schedule.  
+✔️ **Flexible Scheduling**: Assign alarms to specific days of the week or multiple times a day.  
+✔️ **Today View**: Quickly view all medications scheduled for the current day.  
+✔️ **Date Selection**: Check medicines for any specific day at a glance.  
+✔️ **Usage History**: Keep a detailed log of when each medication was taken to monitor adherence.  
 
+---
 
-# DoseMate_v2
+## Key Features 🚀
+🕒 **Personalized Alarms**: Create, modify, and manage alarms with ease.  
+📅 **Daily Overview**: See all your medications for the day in one place.  
+🔄 **Helping Hand Mode**: Track medications for loved ones with reminders tailored to their schedules.  
+📖 **History Tracking**: Review past medication logs to understand your usage patterns.  
+✨ **User-Friendly Design**: A clean and intuitive interface built for ease of use.  
+
+---
+
+## See It in Action! 🎥
+Check out the **attached demo video** to experience how DoseMate simplifies medication management and keeps you organized. Your health, just a tap away!  
+
+---
+
+🌟 **Stay healthy, stay on schedule – with DoseMate!** 🌟
